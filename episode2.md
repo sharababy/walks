@@ -1,7 +1,7 @@
 # She visited again
 
-I was on my way to the gift shop.
-Thats where I work.
+I was on my way to the gift shop.  
+Thats where I work.  
 
 The time was 6:30 in the morning.
 It had just stopped raining.
